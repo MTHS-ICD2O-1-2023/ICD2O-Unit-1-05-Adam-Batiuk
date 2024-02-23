@@ -4,5 +4,8 @@
 */
 .mdl-layout__content{
   padding: 40px;
+}
 
+.demo-list-item {
+  width: 400px;
 }
